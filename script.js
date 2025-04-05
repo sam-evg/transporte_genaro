@@ -1,8 +1,8 @@
 // Fondo dinámico del hero con desvanecimiento
 const hero = document.getElementById('hero');
 const images = [
-  'img/camion-ruta-chile.png',
-  'img/camion-vista-aerea.png'
+  'camion-ruta-chile.png',
+  'camion-vista-aerea.png'
 ];
 let index = 0;
 
